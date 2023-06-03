@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Aubrey Moya-Méndez Trotter",
+    "salary": 50000,
+    "department": "Sales"
+  },
+  {
+    "id": 2,
+    "name": "Clayton Trotter",
+    "salary": 60000,
+    "department": "Marketing"
+  },
+  {
+    "id": 3,
+    "name": "Everette Trotter",
+    "salary": 70000,
+    "department": "Finance"
+  },
+  {
+    "id": 4,
+    "name": "Abbey Vann",
+    "salary": 55000,
+    "department": "Sales"
+  },
+  {
+    "id": 5,
+    "name": "Corey Glenn",
+    "salary": 65000,
+    "department": "Marketing"
+  },
+  {
+    "id": 6,
+    "name": "Charlie Hensley",
+    "salary": 75000,
+    "department": "Finance"
+  },
+  {
+    "id": 7,
+    "name": "Maeleigh Hensley",
+    "salary": 52000,
+    "department": "Sales"
+  },
+  {
+    "id": 8,
+    "name": "Annie Lou Parker",
+    "salary": 62000,
+    "department": "Marketing"
+  },
+  {
+    "id": 9,
+    "name": "Emily Shalk",
+    "salary": 72000,
+    "department": "Finance"
+  },
+  {
+    "id": 10,
+    "name": "Sarah Soule",
+    "salary": 84000,
+    "department": "Sales"
+  }
+]
